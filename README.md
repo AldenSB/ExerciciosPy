@@ -1,2 +1,2 @@
 # Exercícios
- repositório reservado para Exercicios do curso de python
+ Repositório reservado para Exercicios do curso de python
